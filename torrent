@@ -1,5 +1,7 @@
 #http:
 rarbg.*
 *.rarbg.*
+thepiratebay.*
+*.thepiratebay.*
 
 #https:
