@@ -26,7 +26,6 @@ http://stats.microsoft.com
 http://test.stats.update.microsoft.com
 
 #https
-
 https://download.windowsupdate.com
 https://*.download.windowsupdate.com
 https://download.microsoft.com
@@ -42,6 +41,18 @@ https://ntservicepack.microsoft.com
 https://wustat.windows.com
 https://stats.microsoft.com
 https://test.stats.update.microsoft.com
+
+#ip
+102.133.0.0/16
+102.133.0.0/17
+102.133.128.0/17
+102.37.0.0/16
+102.37.0.0/17
+102.37.128.0/17
+104.146.128.0/17
+104.208.0.0/13
+104.40.0.0/13
+104.47.19.0/24
 
 
 
