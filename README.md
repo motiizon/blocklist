@@ -1,2 +1,20 @@
-# blocklist
-blocklist
+# MS-Updates
+download.windowsupdate.com
+update.microsoft.com
+windowsupdate.com
+windowsupdate.microsoft.com
+ntservicepack.microsoft.com
+wustat.windows.com
+http://download.windowsupdate.com
+http://*.download.windowsupdate.com
+http://download.microsoft.com
+https://*.update.microsoft.com
+http://*.update.microsoft.com
+https://update.microsoft.com
+http://update.microsoft.com
+http://*.windowsupdate.com
+http://*.windowsupdate.microsoft.com
+http://windowsupdate.microsoft.com
+https://*.windowsupdate.microsoft.com
+http://ntservicepack.microsoft.com
+http://wustat.windows.com
