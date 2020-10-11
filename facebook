@@ -1,7 +1,7 @@
+#sub
 facebook.com
 facebook.net
 fbcdn.net
-
 fbstatic-a.akamaihd.net
 fbstatic-b.akamaihd.net
 fbstatic-c.akamaihd.net
@@ -28,7 +28,6 @@ fbstatic-w.akamaihd.net
 fbstatic-x.akamaihd.net
 fbstatic-y.akamaihd.net
 fbstatic-z.akamaihd.net
-
 fbcdn-profile-a.akamaihd.net
 fbcdn-profile-b.akamaihd.net
 fbcdn-profile-c.akamaihd.net
@@ -55,7 +54,6 @@ fbcdn-profile-w.akamaihd.net
 fbcdn-profile-x.akamaihd.net
 fbcdn-profile-y.akamaihd.net
 fbcdn-profile-z.akamaihd.net
-
 fbcdn-sphotos-a-a.akamaihd.net
 fbcdn-sphotos-b-a.akamaihd.net
 fbcdn-sphotos-c-a.akamaihd.net
@@ -82,7 +80,6 @@ fbcdn-sphotos-w-a.akamaihd.net
 fbcdn-sphotos-x-a.akamaihd.net
 fbcdn-sphotos-y-a.akamaihd.net
 fbcdn-sphotos-z-a.akamaihd.net
-
 fbcdn-creative-a.akamaihd.net
 fbcdn-creative-b.akamaihd.net
 fbcdn-creative-c.akamaihd.net
@@ -109,7 +106,6 @@ fbcdn-creative-w.akamaihd.net
 fbcdn-creative-x.akamaihd.net
 fbcdn-creative-y.akamaihd.net
 fbcdn-creative-z.akamaihd.net
-
 fbexternal-a.akamaihd.net
 fbexternal-b.akamaihd.net
 fbexternal-c.akamaihd.net
@@ -137,6 +133,17 @@ fbexternal-x.akamaihd.net
 fbexternal-y.akamaihd.net
 fbexternal-z.akamaihd.net
 
+#http
+http://*.facebook.com
+http://facebook.com
+http://m.facebook.com
+
+#https
+https://*.facebook.com
+https://facebook.com
+https://m.facebook.com
+
+#ip
 66.220.144.0 – 66.220.159.255
 69.63.176.0 – 69.63.191.255
 204.15.20.0 – 204.15.23.255
