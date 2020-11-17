@@ -1,3 +1,16 @@
+#sub
+
+#http
+http://*.netflix.com
+http://netflix.com
+http://m.netflix.com
+
+#https
+https://*.netflix.com
+https://netflix.com
+https://m.netflix.com
+
+#ip
 108.175.32.0/20
 185.2.220.0/22
 185.9.188.0/22
