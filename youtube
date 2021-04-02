@@ -10,7 +10,10 @@ i.google.com
 googlevideo.com
 l.google.com
 youtu.be
-	
+
+youtubei.googleapis.com
+youtube.googleapis.com
+www.youtube-nocookie.com	
 accountlinking-pa-clients6.youtube.com 	
 accounts.youtube.com 	
 admin.youtube.com 	
@@ -573,7 +576,6 @@ web-release-qa.youtube.com
 web-trunk-qa.youtube.com 	
 youtubei.youtube.com 	
 za.youtube.com 	
-
 o-o.preferred.cbf01t01.v3.cache1.c.youtube.com
 o-o.preferred.sjc07s15.v10.lscache1.c.youtube.com
 o-o.preferred.sn-jvhj5nu-hp5e.v21.lscache1.c.youtube.com
@@ -702,17 +704,15 @@ lscache1.c.youtube.com
 cyc.youtube.com
 partner.youtube.com
 uberproxy-san.youtube.com
-
 #http
+.youtube.com
 http://*.youtube.com
 http://youtube.com
 http://m.youtube.com
-
 #https
 https://*.youtube.com
 https://youtube.com
 https://m.youtube.com
-
 #ip
 199.223.232.0 - 199.223.239.255
 207.223.160.0 - 207.223.175.255
@@ -721,7 +721,6 @@ https://m.youtube.com
 209.85.128.0 - 209.85.255.255
 216.58.192.0 - 216.58.223.255
 216.239.32.0 - 216.239.63.255
-
 208.65.153.238
 208.65.153.251
 208.65.153.253
