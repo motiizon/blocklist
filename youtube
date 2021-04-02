@@ -1,4 +1,4 @@
-#Sub
+#sub
 www.youtube.com 	
 accountlinking-pa-clients6.youtube.com 	
 accounts.youtube.com 	
@@ -563,7 +563,6 @@ web-trunk-qa.youtube.com
 youtubei.youtube.com 	
 za.youtube.com 	
 
-#http
 #http
 http://*.youtube.com
 http://youtube.com
